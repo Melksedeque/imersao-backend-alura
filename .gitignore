@@ -3,3 +3,6 @@ node_modules/
 
 # Arquivos de texto
 *.txt
+
+# Arquivos de sistema
+.env
